@@ -41,4 +41,4 @@ For building and running the application you need:
   
 ```
 
-![RabbitMQ]()
+![RabbitMQ](https://github.com/yusufyucedag/RabbitMQ-Project/blob/main/image/exchanges-topic-fanout-direct.png)
